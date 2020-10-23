@@ -1,3 +1,3 @@
-# The module to find the shortest paths between set of points avoiding obstacles
+# The module to find the shortest paths between set of points avoiding obstacles for further use in VRP
 
-![<Найкоротші допустимі шляхи>](data/img/paths.jpg) 
+![<Shortest paths example>](data/img/paths.jpg)
